@@ -8,7 +8,7 @@ strong {
 }
 
 p {
-    color: gray;
+    color: black;
     padding: 10px;
 }
 
@@ -28,5 +28,5 @@ ul {
 }
 
 em {
-    color: black;
+    color: darkcyan;
 }
